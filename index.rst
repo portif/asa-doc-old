@@ -3,22 +3,22 @@ Administração de Sistemas Abertos
 =======================================
 
 .. toctree::
-   :maxdepth: 1
+    :maxdepth: 1
 
-   01-interfaces
-   02-servicos
-   03-dns
-   04-http
-   05-log
-   06-ssh
-   07-ftp
-   08-smtp
-   09-dhcp
-   10-nfs
-   10-samba
-   11-cups
-   12-ldap-krb
-   13-proxy
+    01-interfaces.md
+    02-servicos.md
+    03-dns.md
+    04-http.md
+    05-log.md
+    06-ssh.md
+    07-ftp.md
+    08-smtp.md
+    09-dhcp.md
+    10-nfs.md
+    11-samba.md
+    12-cups.md
+    13-ldap-krb.md
+    14-proxy.md
 
 
 Índices e tabelas

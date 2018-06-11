@@ -1,2 +1,2 @@
-# Servidores de arquivo NFS e Samba
+# Servidores de arquivo NFS
 
