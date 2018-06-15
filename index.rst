@@ -19,10 +19,11 @@ Administração de Sistemas Abertos
     12-cups.md
     13-ldap-krb.md
     14-proxy.md
-
+    glossario/index
 
 Índices e tabelas
 ==================
 
 * :ref:`genindex`
 * :ref:`search`
+* :doc:`Glossário <glossario/index>`

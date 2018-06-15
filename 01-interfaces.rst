@@ -4,13 +4,15 @@ Configuração do ambiente de Rede
 Nome da máquina
 -----------------
 
-.. literalinclude:: /etc/hostname
+.. literalinclude:: etc/hostname
+    :linenos:
 
 
-.. literalinclude:: /etc/hosts
-
+.. literalinclude:: etc/hosts
+    :linenos:
 
 Interfaces de rede
 --------------------
 
-.. literalinclude:: /etc/network/interfaces
+.. literalinclude:: etc/network/interfaces
+    :linenos:

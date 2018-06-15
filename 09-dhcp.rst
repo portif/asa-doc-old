@@ -4,7 +4,7 @@ Atribuição dinâmica de endereços IP (DHCP)
 Instalação
 ------------
 
-.. console::
+.. ::
 
     $ sudo apt install isc-dhcp-server
 
@@ -12,6 +12,15 @@ Instalação
 Arquivos de configuração
 ---------------------------
 
-.. literalinclude:: /etc/default/isc-dhcp-server
+.. literalinclude:: etc/default/isc-dhcp-server
+    :linenos:
 
-.. literalinclude:: /etc/dhcp/dhcpd.conf
+.. literalinclude:: etc/dhcp/dhcpd.conf
+    :linenos:
+
+Acompanhamento de logs
+----------------------
+
+
+Registro das concessões
+--------------------------
