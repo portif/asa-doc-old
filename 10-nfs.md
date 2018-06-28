@@ -1,2 +1,0 @@
-# Servidores de arquivo NFS
-
