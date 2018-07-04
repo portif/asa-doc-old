@@ -28,3 +28,9 @@ Para remover as linhas em branco e comentários de um arquivo, utilize o comando
 
     * :command:`sed -e '/^$/d' -e '/^#/d' -i <arquivo>`
 
+Alterar o autor da documentação
+-------------------------------
+
+Edite o arquivo :file:`conf.py` e substitua todas as ocorrências de AUTOR por seu nome completo. Se preferir fazer isso via linha de comando, experimente o comando: 
+
+    * :command:`sed -i 's/AUTOR/Fulano Pereira da Silva/' conf.py`

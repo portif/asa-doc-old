@@ -19,7 +19,7 @@ Objetivos de aprendizagem
 
 Arquivos, diretórios e comandos
 --------------------------------
-* /etc/network/interfaces (ver *dns-nameservers)
+* /etc/network/interfaces (ver *dns-nameservers*)
 * /etc/resolv.conf
 * nslookup
 

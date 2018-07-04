@@ -1,4 +1,4 @@
-.. _dhcp
+.. _dhcp:
 
 Atribuição dinâmica de endereços IP (DHCP)
 =============================================

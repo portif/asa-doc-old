@@ -14,4 +14,6 @@ Objetivos de aprendizagem
 
 Arquivos, diretórios e comandos
 --------------------------------
-* apt list *ftpd
+* :command:`apt list *ftpd`
+* :command:`ftp`
+* :command:`ncftp`

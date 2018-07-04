@@ -40,3 +40,8 @@ Arquivos, diretórios e comandos
 * tail -f /var/log/apache2/access.log
 * tail -f /var/log/apache2/access.log | ccze -A
 * tail -f /var/log/apache2/error.log
+
+Referências sugeridas
+---------------------
+
+* `10 melhores sites para criar um Favicon <http://www.des1gnon.com/2017/10/criar-um-favicon/>`_
