@@ -22,6 +22,11 @@ Arquivos, diretórios e comandos
 * sftp
 * ssh-keygen
 * ssh-copy-id
+* ~/.ssh/known_hosts
+* ~/.ssh/id_rsa
+* ~/.ssh/id_rsa.pub
+* ~/.ssh/authorized_keys
+* ~/.ssh/config
 * /etc/ssh/moduli
 * /etc/ssh/ssh_config
 * /etc/ssh/sshd_config
