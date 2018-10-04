@@ -12,6 +12,5 @@
 * `make html`
    
 ## Para visualizar a documentação:
-1. Vá para sua Área de Trabalho
-2. Acesse a pasta `asa-doc/_build/html`
+1. Vá para o diretório `_build/html`
 3. Abra o arquivo `index.html`
