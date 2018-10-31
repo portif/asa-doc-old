@@ -6,7 +6,9 @@ Objetivos de aprendizagem
 
 * Instalar servidor Samba4
 * Configurar controlador de domínio do Active Directory no Samba4
-* Gerenciamento de usuários no Samba4
+* Gerenciar usuários no Samba4
+* Ingressar estações Windows e Linux no domínio do Samba4
+* Gerenciar usuários, grupos e unidades organizacionais
 
 Arquivos, diretórios e comandos
 --------------------------------
@@ -18,6 +20,11 @@ Arquivos, diretórios e comandos
 * /etc/samba/smb.conf
 * /etc/krb5.conf
 * /var/log/samba/
+
+No Windows
+~~~~~~~~~~
+* No CMD: ``dsquery * "DC=ifrn,DC=local" -filter "(samaccountname=%USERNAME%)" -attr *``
+* No PowerShell: ``Get-ADUser $Env:USERNAME -Properties *``
 
 Referências sugeridas
 ---------------------
