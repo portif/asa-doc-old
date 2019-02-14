@@ -1,16 +1,13 @@
 from recommonmark.parser import CommonMarkParser
-extensions = ['sphinx.ext.todo',
-    'sphinx.ext.imgmath',
-    'sphinx.ext.githubpages']
 templates_path = ['_templates']
 source_suffix = ['.rst', '.md']
 source_parsers = {'.md': CommonMarkParser}
 master_doc = 'index'
-project = u'Administração de Sistemas Abertos'
-copyright = u'2018, AUTOR'
-author = u'AUTOR'
-version = u'2018.1'
-release = u'2018.1'
+project = 'Administração de Sistemas Abertos'
+copyright = '2019, AUTOR'
+author = 'AUTOR'
+version = '2019.1'
+release = '2019.1'
 language = 'pt_BR'
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 pygments_style = 'sphinx'
