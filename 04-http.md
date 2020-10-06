@@ -1,16 +1,14 @@
-# Servidor Web (HTTP) 
-=====================
+# Servidor Web (HTTP)
 
 ## Objetivos de aprendizagem
 
-- Instalar um servidor Web (lighttpd, apache2 ou ngnix) no Linux
+- Instalar um servidor Web `lighttpd`, `apache2` ou `ngnix` no Linux
 - Editar configurações de um servidor Web
 - Navegar nos diretórios de configuração do servidor Web
-- Publicar páginas na raiz de documentos ([DocumentRoot]{.title-ref})
+- Publicar páginas na raiz de documentos `DocumentRoot`
 - Analisar registros de acesso e de erro de um servidor Web
-- Gerenciar o serviço (`serviço`{.interpreted-text role="ref"})
-- Habilitar e desabiliar configuração (conf), módulo (mod) e site no
-    Apache2
+- Gerenciar o serviço 
+- Habilitar e desabiliar configuração (conf), módulo (mod) e site noApache2
 - Subir um servidor HTTPS (módulo `ssl` e site `default-ssl`)
 - Criação de um certificado autoassinado com `openssl`
 - Instalar um servidor LAMP
@@ -18,8 +16,7 @@
 - Configurar servidor Web multihost
 - Registar nome do servidor Web no servidor DNS
 
-Arquivos, diretórios e comandos
--------------------------------
+## Arquivos, diretórios e comandos
 
 - /etc/apache2/
 - /etc/apache2/mods-available
@@ -39,7 +36,6 @@ Arquivos, diretórios e comandos
 - tail -f /var/log/apache2/access.log \| ccze -A
 - tail -f /var/log/apache2/error.log
 
-Referências sugeridas
----------------------
+## Referências sugeridas
 
 - [10 melhores sites para criar um Favicon](http://www.des1gnon.com/2017/10/criar-um-favicon/)

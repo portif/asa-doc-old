@@ -1,0 +1,9 @@
+sphinx
+sphinx_rtd_theme
+myst_parser
+sphinxcontrib-disqus
+sphinxcontrib-actdiag
+sphinxcontrib-blockdiag
+sphinxcontrib-nwdiag
+sphinxcontrib-seqdiag
+sphinxcontrib-plantuml
