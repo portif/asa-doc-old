@@ -1,6 +1,8 @@
-(Y)_
+(Y)=
 
-```glossary
+# Y
+
+```{glossary}
 
 y-Termo1
     Definição do termo 1 que começa com letra y.

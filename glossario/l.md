@@ -1,6 +1,8 @@
-(L)_
+(L)=
 
-```glossary
+# L
+
+```{glossary}
 
 l-Termo1
     Definição do termo 1 que começa com letra l.

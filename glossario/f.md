@@ -1,6 +1,8 @@
-(F)_
+(F)=
 
-```glossary
+# F
+
+```{glossary}
 
 f-Termo1
     Definição do termo 1 que começa com letra f.

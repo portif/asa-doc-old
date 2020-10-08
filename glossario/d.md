@@ -1,6 +1,9 @@
-(D)_
+(D)=
 
-```glossary
+
+# D
+
+```{glossary}
 
 d-Termo1
     Definição do termo 1 que começa com letra d.

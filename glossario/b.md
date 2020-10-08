@@ -1,6 +1,8 @@
-(B)_
+(B)=
 
-```glossary
+# B
+
+```{glossary}
 
 b-Termo1
     Definição do termo 1 que começa com letra b.

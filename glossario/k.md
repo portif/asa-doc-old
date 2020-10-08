@@ -1,6 +1,8 @@
-(K)_
+(K)=
 
-```glossary
+# K
+
+```{glossary}
 
 k-Termo1
     Definição do termo 1 que começa com letra k.

@@ -1,6 +1,8 @@
-(G)_
+(G)=
 
-```glossary
+# G
+
+```{glossary}
 
 g-Termo1
     Definição do termo 1 que começa com letra g.

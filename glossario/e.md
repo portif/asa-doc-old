@@ -1,6 +1,8 @@
-(E)_
+(E)=
 
-```glossary
+# E
+
+```{glossary}
 
 e-Termo1
     Definição do termo 1 que começa com letra e.

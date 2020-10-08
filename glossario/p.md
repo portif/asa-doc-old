@@ -1,6 +1,8 @@
-(P)_
+(P)=
 
-```glossary
+# P
+
+```{glossary}
 
 p-Termo1
     Definição do termo 1 que começa com letra p.

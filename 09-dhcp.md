@@ -7,6 +7,7 @@
 - Reservar endereços IP a partir do endereço MAC
 - Analisar mensagens do servidor DHCP enviadas para o servidor de log
 
+
 ## Instalação
 
 {command}`sudo apt install isc-dhcp-server`

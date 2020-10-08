@@ -1,6 +1,8 @@
-(R)_
+(R)=
 
-```glossary
+# R
+
+```{glossary}
 
 r-Termo1
     Definição do termo 1 que começa com letra r.

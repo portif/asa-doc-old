@@ -1,6 +1,8 @@
-(V)_
+(V)=
 
-```glossary
+# V
+
+```{glossary}
 
 v-Termo1
     Definição do termo 1 que começa com letra v.

@@ -1,6 +1,8 @@
-(T)_
+(T)=
 
-```glossary
+# T
+
+```{glossary}
 
 t-Termo1
     Definição do termo 1 que começa com letra t.

@@ -1,6 +1,8 @@
-(U)_
+(U)=
 
-```glossary
+# U
+
+```{glossary}
 
 u-Termo1
     Definição do termo 1 que começa com letra u.

@@ -1,6 +1,8 @@
-(Z)_
+(Z)=
 
-```glossary
+# Z
+
+```{glossary}
 
 z-Termo1
     Definição do termo 1 que começa com letra z.

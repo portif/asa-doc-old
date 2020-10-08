@@ -1,6 +1,8 @@
-(M)_
+(M)=
 
-```glossary
+# M
+
+```{glossary}
 
 m-Termo1
     Definição do termo 1 que começa com letra m.

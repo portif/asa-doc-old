@@ -1,6 +1,8 @@
-(J)_
+(J)=
 
-```glossary
+# J
+
+```{glossary}
 
 j-Termo1
     Definição do termo 1 que começa com letra j.

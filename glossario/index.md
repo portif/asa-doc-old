@@ -3,6 +3,7 @@
 # Glossário
 
 ```{toctree}
+
 a
 b
 c

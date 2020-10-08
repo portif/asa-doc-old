@@ -1,6 +1,8 @@
-(O)_
+(O)=
 
-```glossary
+# O
+
+```{glossary}
 
 o-Termo1
     Definição do termo 1 que começa com letra o.

@@ -1,6 +1,8 @@
-(Q)_
+(Q)=
 
-```glossary
+# Q
+
+```{glossary}
 
 q-Termo1
     Definição do termo 1 que começa com letra q.
