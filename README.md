@@ -1,3 +1,7 @@
+---
+:orphan: True
+---
+
 # Documentação para Administração de Sistemas Abertos
 
 ## Pacotes necessários no Debian/Ubuntu
