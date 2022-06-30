@@ -38,6 +38,6 @@ Arquivos, diretórios e comandos
 Referências sugeridas
 ---------------------
 
-* `systemd (Português) - ArchWiki <https://wiki.archlinux.org/index.php/Systemd_(Portugu%C3%AAs)>`_
-* `systemd – Wikipédia, a enciclopédia livre <https://pt.wikipedia.org/wiki/Systemd>`_
+* [systemd (Português) - ArchWiki](https://wiki.archlinux.org/index.php/Systemd_(Portugu%C3%AAs))
+* [systemd – Wikipédia, a enciclopédia livre](https://pt.wikipedia.org/wiki/Systemd)
 
